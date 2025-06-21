@@ -35,7 +35,7 @@ const Footer = () => {
           <div className="flex items-center space-x-1 text-sm">
             <span>Made with</span>
             <Heart className="h-4 w-4 text-red-400" />
-            <span>© 2024 AMRR TechSols</span>
+            <span>© 2025 AMRR TechSols</span>
           </div>
         </div>
       </div>
